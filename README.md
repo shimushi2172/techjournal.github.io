@@ -1,1 +1,1 @@
-# techjournal.github.io
+# techjourney.github.io
